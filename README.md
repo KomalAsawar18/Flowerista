@@ -18,7 +18,8 @@
 - JavaScript
 - PHP (if used)
 
-###👩‍💻 Author
+## 👩‍💻 Author
+
 Created with 💕 by Komal Asawar
 LinkedIn: www.linkedin.com/in/komal-asawar-30b540252
 
